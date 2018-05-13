@@ -230,6 +230,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 * [store](https://github.com/tucnak/store) - Lightweight configuration manager for Go.
 * [viper](https://github.com/spf13/viper) - Go configuration with fangs.
 * [xdg](https://github.com/OpenPeeDeeP/xdg) - Cross platform package that follows the [XDG Standard](https://standards.freedesktop.org/basedir-spec/basedir-spec-latest.html).
+* [conf](https://github.com/peyman-abdi/conf) - HJSON/JSON/ENV Configurations with custom Evaluation Functions for dynamic config values like env(PORT)
 
 ## Continuous Integration
 
