@@ -208,6 +208,7 @@ Please take a quick gander at the [contribution guidelines](https://github.com/a
 
 *Libraries for configuration parsing.*
 
+* [conf](https://github.com/peyman-abdi/conf) - HJSON/JSON/ENV Configurations with custom "Evaluation Functions" for dynamic config values like env(PORT)
 * [config](https://github.com/olebedev/config) - JSON or YAML configuration wrapper with environment variables and flags parsing.
 * [configure](https://github.com/paked/configure) - Provides configuration through multiple sources, including JSON, flags and environment variables.
 * [confita](https://github.com/heetch/confita) - Load configuration in cascade from multiple backends into a struct.
